@@ -1,3 +1,5 @@
+![1500x500](https://github.com/Dark-St-r/Dark-St-r/assets/93423666/24a0e1c9-b9a1-4f7a-8e5f-ff7fddee3eb6)
+
 I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
 
 - 👀 Exploring the realms of Programming, Problem Solving, and Cyber Security.
