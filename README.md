@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darkixxg/)
 ![GitHub followers](https://img.shields.io/github/followers/Dark-St-r?style=for-the-badge&labelColor=0c0c0c&color=1e1e1e)
 [![freeCodeCamp points](https://img.shields.io/freecodecamp/points/dark-st-r?style=for-the-badge&logo=freecodecamp&label=freecodecamp%20points&labelColor=0c0c0c&color=1e1e1e)](https://freecodecamp.org/Dark-St-r)
-[![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=1e1e1e&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 [![@TRADC](https://img.shields.io/badge/-UWI--TRADC-0c0c0c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UWI-TRADC)
 [![ProtonMail](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:promethiuz268@protonmail.com)
 
@@ -18,6 +17,7 @@
 # Under Construction
 <!--- I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
 
+[![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=1e1e1e&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 - 👀 Exploring the realms of Programming, Problem Solving, and Cyber Security.
 - 🌱 Currently diving deep into the wonders of Python, Pentesting, JavaScript, and Next.js.
 - 💞 On the lookout for exciting collaborations (although the project specifics are a delicious mystery for now).
