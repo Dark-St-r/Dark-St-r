@@ -13,9 +13,9 @@
 [![@TRADC](https://img.shields.io/badge/-UWI--TRADC-0c0c0c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UWI-TRADC)
 [![ProtonMail](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:promethiuz268@protonmail.com)
 
+<!--- I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
 ---
 # Under Construction
-<!--- I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=1e1e1e&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 - 👀 Exploring the realms of Programming, Problem Solving, and Cyber Security.
