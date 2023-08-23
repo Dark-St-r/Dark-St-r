@@ -1,4 +1,5 @@
 ![1500x500](https://github.com/Dark-St-r/Dark-St-r/assets/93423666/24a0e1c9-b9a1-4f7a-8e5f-ff7fddee3eb6)
+[![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
 
