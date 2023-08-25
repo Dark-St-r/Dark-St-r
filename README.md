@@ -16,16 +16,6 @@
 ````
 <img src="https://github.com/Dark-St-r/Dark-St-r/assets/93423666/9da3f2ba-98ce-4c24-964d-568a27c86e5b" alt="banner" />
 
-<!-- Data Charts --->
-
-<div align="center">
-  <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=SHEMAR%20ABEL&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
-  <div align="right">
-    <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
-    <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
-  </div>
-</div>
-
 <!-- Connections --->
 
 [![Instagram][Instagram-Button]][Instagram-URL]
@@ -37,6 +27,23 @@
 [![@TRADC][TRADC-Button]][TRADC-URL]
 [![ProtonMail][ProtonMail-Button]][ProtonMail-URL]
 [![Near][Near-Button]][Near-URL]
+
+<!-- Data Charts --->
+
+<div align="center">
+  <ul width="100%" align="center">
+    <ol>
+      <img width="40%" height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
+    </ol>
+    <ol>
+      <img width="55%" height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
+    </ol>
+  </ul>
+</div>
+
+<div align="center">
+  <img align="center" src="https://img.shields.io/static/v1?label=More&message=Experience&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
+</div>
 
 
 <!--
@@ -54,7 +61,6 @@ Restoring memories.. restore complete.
 > I will be your guide on today's journey to see breathe taking views and Captiv...
 > ERrrroooooRRRrrr!!!
 ````
-
 <img width="200.67px" align="left" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
 
 ````bash
