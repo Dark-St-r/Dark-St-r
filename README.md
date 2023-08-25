@@ -44,6 +44,7 @@ Restoring memories.. restore complete.
 ````
 <!-- Data Charts --->
 <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=SHEMAR%20ABEL&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
+
 <div align="left">
   <div align="center">
     <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
@@ -52,6 +53,14 @@ Restoring memories.. restore complete.
 </div>
 
 <!-- Footer --->
+<!-- <footer  align="center">
+  
+  <div align="center">
+    VISITOR'S COUNT
+    <p><img src="https://profile-counter.glitch.me/{Dark-St-r}/count.svg" alt="Dark-St-r :: Visitor's Count" /></p>
+  </div>
+</footer> --->
+
 ````bash
 > help --interests
 > Graphic Design
@@ -63,14 +72,6 @@ Restoring memories.. restore complete.
 > Travel
 > Game Development
 ````
-<footer  align="center">
-  
-  <div align="center">
-    VISITOR'S COUNT
-    <p><img src="https://profile-counter.glitch.me/{Dark-St-r}/count.svg" alt="Dark-St-r :: Visitor's Count" /></p>
-  </div>
-</footer>
-
 <!--- I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 [![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=1e1e1e&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
