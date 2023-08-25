@@ -1,8 +1,10 @@
----
+<!--->
 <!-- Banner --->
-![1500x500](https://github.com/Dark-St-r/Dark-St-r/assets/93423666/24a0e1c9-b9a1-4f7a-8e5f-ff7fddee3eb6)
+<!--img src="https://github.com/Dark-St-r/Dark-St-r/assets/93423666/24a0e1c9-b9a1-4f7a-8e5f-ff7fddee3eb6" alt="banner" /-->
+<img src="https://github.com/Dark-St-r/Dark-St-r/assets/93423666/9da3f2ba-98ce-4c24-964d-568a27c86e5b" alt="banner" />
 
----
+
+<!--->
 ````bash
                 _   _  U _____ u  _       _       U  ___ u                    U  ___ u   ____      _      ____    
                |'| |'| \| ___"|/ |"|     |"|       \/"_ \/     __        __    \/"_ \/U |  _"\ u  |"|    |  _"\   
@@ -12,6 +14,7 @@
                //   \\  <<   >>  //  \\  //  \\      \\       .-,_\ /\ /_,-.     \\     //   \\_  //  \\  |||_    
               (_") ("_)(__) (__)(_")("_)(_")("_)    (__)       \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_
 ````
+<img src="https://github.com/Dark-St-r/Dark-St-r/assets/93423666/9da3f2ba-98ce-4c24-964d-568a27c86e5b" alt="banner" />
 <!-- Connections --->
 
 [![Instagram][Instagram-Button]][Instagram-URL]
