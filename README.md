@@ -53,13 +53,13 @@ Restoring memories.. restore complete.
 </div>
 
 <!-- Footer --->
-<!-- <footer  align="center">
+<footer  align="center">
   
   <div align="center">
     VISITOR'S COUNT
     <p><img src="https://profile-counter.glitch.me/{Dark-St-r}/count.svg" alt="Dark-St-r :: Visitor's Count" /></p>
   </div>
-</footer> --->
+</footer>
 
 ````bash
 > help --interests
