@@ -15,17 +15,18 @@
               (_") ("_)(__) (__)(_")("_)(_")("_)    (__)       \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_
 ````
 <img src="https://github.com/Dark-St-r/Dark-St-r/assets/93423666/9da3f2ba-98ce-4c24-964d-568a27c86e5b" alt="banner" />
-<!-- Connections --->
-<!-- Data Charts --->
-<img align="center" src="https://img.shields.io/static/v1?label=Overview&message=SHEMAR%20ABEL&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
 
-<div align="right">
+<!-- Data Charts --->
+
+<div align="center">
+  <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=SHEMAR%20ABEL&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
   <div align="right">
     <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
     <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
   </div>
 </div>
 
+<!-- Connections --->
 
 [![Instagram][Instagram-Button]][Instagram-URL]
 [![Twitter][Twitter-Button]][Twitter-URL]
