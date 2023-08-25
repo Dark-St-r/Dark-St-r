@@ -47,8 +47,8 @@ Restoring memories.. restore complete.
 
 <div align="left">
   <div align="center">
-    <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
-    <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
+    <img width="50%" height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
+    <img width="50%" height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
   </div>
 </div>
 
