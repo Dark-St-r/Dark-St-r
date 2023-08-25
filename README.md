@@ -44,9 +44,11 @@ Restoring memories.. restore complete.
 ````
 <!-- Data Charts --->
 <img align="center" src="https://img.shields.io/static/v1?label=Overview&message=SHEMAR%20ABEL&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
-<div align="right">
-  <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
-  <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
+<div align="left">
+  <div align="center">
+    <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
+    <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
+  </div>
 </div>
 
 <!-- Footer --->
