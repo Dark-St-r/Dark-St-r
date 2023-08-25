@@ -47,19 +47,12 @@ Restoring memories.. restore complete.
 
 <div align="left">
   <div align="center">
-    <img width="50%" height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
-    <img width="50%" height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
+    <img height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
+    <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
   </div>
 </div>
 
-<!-- Footer --->
-<footer  align="center">
-  
-  <div align="center">
-    VISITOR'S COUNT
-    <p><img src="https://profile-counter.glitch.me/{Dark-St-r}/count.svg" alt="Dark-St-r :: Visitor's Count" /></p>
-  </div>
-</footer>
+<img width="124.67px" align="center" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
 
 ````bash
 > help --interests
@@ -72,6 +65,15 @@ Restoring memories.. restore complete.
 > Travel
 > Game Development
 ````
+<!-- Footer --->
+<footer  align="center">
+  
+  <div align="center">
+    VISITOR'S COUNT
+    <p><img src="https://profile-counter.glitch.me/{Dark-St-r}/count.svg" alt="Dark-St-r :: Visitor's Count" /></p>
+  </div>
+</footer>
+
 <!--- I'm Shemar, and I'm thrilled to welcome you to my coding universe. Here's a sneak peek into what makes me tick:
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 [![ProfileViews](https://komarev.com/ghpvc/?username=Dark-St-r&color=1e1e1e&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
