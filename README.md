@@ -24,6 +24,7 @@
 [![@TRADC][TRADC-Button]][TRADC-URL]
 [![ProtonMail][ProtonMail-Button]][ProtonMail-URL]
 [![Near][Near-Button]][Near-URL]
+[![Portfolio][Portfolio-Button]][Portfolio-URL]
 
 <!-- Data Charts --->
 
@@ -108,5 +109,7 @@ Stay curious, keep coding, and let's connect the digital dots together! 🚀 ---
 [TRADC-URL]: https://github.com/UWI-TRADC
 [ProtonMail-Button]: https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=protonmail&logoColor=white
 [ProtonMail-URL]: mailto:promethiuz268@protonmail.com
-[Near-Button]: https://img.shields.io/badge/Near%20Social-0c0c0c?style=for-the-badge&logo=ear&logoColor=white
+[Near-Button]: https://img.shields.io/badge/Near%20Social-0c0c0c?style=for-the-badge&logo=near&logoColor=white
 [Near-URL]: https://near.social/mob.near/widget/ProfilePage?accountId=shemar268abel.near
+[Portfolio-Button]: https://img.shields.io/badge/Portfolio-0c0c0c?style=for-the-badge&logo=github&logoColor=white
+[Portfolio-URL]: https://dark-st-r.github.io
