@@ -31,10 +31,10 @@
 
 <div align="center">
   <a href="#">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&theme=shadow_red&cache_seconds=2300&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&theme=shadow_red&text_color=af552e&cache_seconds=2300&rank_icon=github" />
 </a>
 <a href="#">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&theme=shadow_red&hide_langs_below=1&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&theme=shadow_red&text_color=af552e&hide_langs_below=1&layout=compact" />
 </a>
 </div>
 
