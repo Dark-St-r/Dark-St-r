@@ -43,6 +43,137 @@
   <img align="center" src="https://img.shields.io/static/v1?label=More&message=Experience&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
 </div>
 
+<table>
+  <tr>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>Figma</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="208">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+        width="48"
+        height="48"
+        alt="Flutter"
+      />
+      <br /><strong>Flutter</strong>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 <H1 align="center">Greetings Traveller, and Welcome to my Village!</H1>
