@@ -27,17 +27,18 @@
 [![Portfolio][Portfolio-Button]][Portfolio-URL]
 
 <!-- Data Charts --->
+<!--- my theme: &title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c --->
 
 <div align="center">
-  <ul width="100%" align="center">
-    <ol>
-      <img width="40%" height="150px" align='left' src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&cache_seconds=2300">
-    </ol>
-    <ol>
-      <img width="40%" height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=0c0c0c&hide_langs_below=1&layout=compact" />
-    </ol>
-  </ul>
+  <a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dark-st-r&show_icons=false&theme=shadow_red&cache_seconds=2300&rank_icon=github" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-st-r&show_icons=true&theme=shadow_red&hide_langs_below=1&layout=compact" />
+</a>
 </div>
+
+
 
 <div align="center">
   <img align="center" src="https://img.shields.io/static/v1?label=More&message=Experience&labelColor=0c0c0c&color=1e1e1e&style=for-the-badge&logo=GitHub">
